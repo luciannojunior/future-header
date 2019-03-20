@@ -1,7 +1,6 @@
 import React from 'react'
-import { ExtensionPoint } from 'vtex.render-runtime'
+import { ExtensionPoint, useRuntime } from 'vtex.render-runtime'
 import Media from 'react-media'
-import { useRuntime } from 'vtex.render-runtime'
 
 const Header = () => {
   const { hints: { mobile } } = useRuntime()
