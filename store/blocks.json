@@ -1,0 +1,59 @@
+{
+  "header-desktop": {
+    "children": [
+      "header-row#1desktop",
+      "header-row#2desktop",
+      "header-row#3desktop"
+    ]
+  },
+  "header-row#1desktop": {
+    "children": [
+      "telemarketing"
+    ],
+    "props": {
+      "fullWidth": true
+    }
+  },
+  "header-row#2desktop": {
+    "children": [
+      "logo",
+      "search",
+      "login",
+      "minicart"
+    ]
+  },
+  "header-row#3desktop": {
+    "children": [
+      "category-menu"
+    ]
+  },
+  "header-mobile": {
+    "children": [
+      "header-row#1mobile",
+      "header-row#2mobile",
+      "header-row#3mobile"
+    ]
+  },
+  "header-row#1mobile": {
+    "children": [
+      "telemarketing"
+    ],
+    "props": {
+      "fullWidth": true
+    }
+  },
+  "header-row#2mobile": {
+    "children": [
+      "logo",
+      "search",
+      "login",
+      "minicart"
+    ]
+  },
+  "header-row#3mobile": {
+    "children": [
+      "category-menu"
+    ]
+  }
+
+}
