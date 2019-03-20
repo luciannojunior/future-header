@@ -1,0 +1,43 @@
+{
+  "header": {
+    "allowed": [
+      "header-desktop",
+      "header-mobile"
+    ],
+    "component": "index",
+    "layoutMode": "static"
+  },
+  "header-desktop": {
+    "allowed": [
+      "header-row"
+    ],
+    "component": "Layout",
+    "layoutMode": "dynamic"
+  },
+  "header-mobile": {
+    "allowed": [
+      "header-row"
+    ],
+    "component": "Layout",
+    "layoutMode": "dynamic"
+  },
+  "_": {
+    "component": "Spacer"
+  },
+  "header-row": {
+    "allowed": [
+      "telemarketing",
+      "logo",
+      "minicart",
+      "login",
+      "menu-link",
+      "category-menu",
+      "search-bar",
+      "theme",
+      "user-address",
+      "_"
+    ],
+    "component": "Row",
+    "layoutMode": "dynamic"
+  }
+}
