@@ -2,7 +2,7 @@
   "name": "vtex.header",
   "description": "Customizable header",
   "dependencies": {
-    "react": "^16.3.2"
+    "react": "^16.3.2",
+    "react-media": "^1.9.2"
   }
 }
-
