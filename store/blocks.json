@@ -1,4 +1,10 @@
 {
+  "header": {
+    "blocks": [
+      "header-desktop",
+      "header-mobile"
+    ]
+  },
   "header-desktop": {
     "children": [
       "header-row#1desktop",
@@ -17,10 +23,15 @@
   "header-row#2desktop": {
     "children": [
       "logo",
-      "search",
+      "_",
+      "search-bar",
+      "_",
       "login",
       "minicart"
-    ]
+    ],
+    "props": {
+      "sticky": true
+    }
   },
   "header-row#3desktop": {
     "children": [
@@ -45,7 +56,7 @@
   "header-row#2mobile": {
     "children": [
       "logo",
-      "search",
+      "search-bar",
       "login",
       "minicart"
     ]
