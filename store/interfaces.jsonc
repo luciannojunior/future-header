@@ -1,4 +1,5 @@
 {
+/*
   "header": {
     "allowed": [
       "header-desktop",
@@ -41,4 +42,5 @@
     "layoutMode": "dynamic"
   },
   "theme": {}
+  */
 }
