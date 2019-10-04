@@ -1,7 +1,7 @@
 {
   "vendor": "storecomponents",
   "name": "test-ci-bot",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "VTEX Customizable Store Header",
   "defaultLocale": "pt-BR",
   "description": "The VTEX Customizable Store Header component",
