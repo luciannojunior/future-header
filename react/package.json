@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.1",
   "name": "test-ci-bot", "description": "Customizable header", "dependencies": {
     "react": "^16.3.2",
     "react-media": "^1.9.2"
